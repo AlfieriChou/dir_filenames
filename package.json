@@ -1,0 +1,28 @@
+{
+  "name": "dir_filenames",
+  "version": "1.0.2",
+  "description": "Get dir filenames.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlfieriChou/dir_filenames.git"
+  },
+  "keywords": [
+    "filename",
+    "fs",
+    "dir"
+  ],
+  "author": "AlfieriChou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlfieriChou/dir_filenames/issues"
+  },
+  "homepage": "https://github.com/AlfieriChou/dir_filenames#readme",
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "should": "^13.2.3"
+  }
+}
