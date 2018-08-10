@@ -1,6 +1,6 @@
 {
   "name": "dir_filenames",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Get dir filenames.",
   "main": "index.js",
   "scripts": {
