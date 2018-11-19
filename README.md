@@ -1,5 +1,7 @@
 ### Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/AlfieriChou/dir_filenames.svg)](https://greenkeeper.io/)
+
 ```
 npm install dir_filenames --save
 ```
